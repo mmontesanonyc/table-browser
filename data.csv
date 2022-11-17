@@ -1,0 +1,173 @@
+Topic,Sub Topics (s),Survey Name,Mode(s),Latest Year/Iteration,Languages,Question Text,Answer Options
+Access,Health Care,CHS,Phone,2017,"Chinese, Russian, Spanish","Now, thinking of your experiences trying to get health care in the past 12 months, have you felt you were hassled, made to feel inferior, or discriminated against for any reason?","1 YES
+ 2 NO
+ 3 (VOL.) DID NOT SEEK HEALTH CARE TREATMENT IN PAST 12 MONTHS
+ 7 DON’T KNOW/NOT SURE
+ 9 REFUSED"
+Access,Health Care,CHS,Phone,2017,"Chinese, Russian, Spanish",What was the reason or reasons you felt discriminated against while trying to get health care treatment in the past 12 months?,"01 Race/ethnicity, or skin color
+ 02 Age
+ 03 Language/accent
+ 04 Health status or disability
+ 05 Body weight
+ 06 Insurance status or type
+ 07 Income level
+ 08 Religion
+ 09 Sexual orientation
+ 10 Gender/sex
+ 11 Gender identity
+ 12 Immigration status
+ 13 Some other reason
+ 77 DON’T KNOW/NOT SURE
+ 99 REFUSED"
+Access,,CHS,Phone,2017,"Chinese, Russian, Spanish","Did you ever feel it was because of your race, ethnicity or skin color?","1 YES
+ 2 NO
+ 7 DON’T KNOW/NOT SURE
+ 9 REFUSED"
+Discrimination,Health Care,CHS,Phone,2004,"Chinese, Russian","Within the past 12 months when seeking health care, do you feel your experiences were worse than, the same as, or better than the experiences of people of other races?","1. Worse than other races
+ 2. The same as other races
+ 3. Better than other races
+ 4. Worse than some races, better than others
+ 5. Only encountered people of the same race
+ 6. No health care during the past 12 months
+ 7. Don’t know/Not sure
+ 9. Refused"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","In your day‐to‐day life, how often do any of the following things happen to you? You are treated with less courtesy or respect than other people.","At least once a week
+ A few times a month
+ A few times a year
+ Never"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","In your day‐to‐day life, how often do any of the following things happen to you? You receive poorer service than other people at
+ restaurants or stores.","At least once a week
+ A few times a month
+ A few times a year
+ Never"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","In your day‐to‐day life, how often do any of the following things happen to you? People act as if they think you are not smart","At least once a week
+ A few times a month
+ A few times a year
+ Never"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","In your day‐to‐day life, how often do any of the following things happen to you? People act as if they are afraid of you.","At least once a week
+ A few times a month
+ A few times a year
+ Never"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","In your day‐to‐day life, how often do any of the following things happen to you? You are threatened or harassed.","At least once a week
+ A few times a month
+ A few times a year
+ Never"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","What do you think are the reasons for these
+ experiences? Would you say the reason or
+ reasons are because of your…","Ancestry, national origins, or ethnicity
+ Gender
+ Race
+ Age
+ Religion
+ Height
+ Weight
+ Sexual orientation
+ Education
+ Income level
+ Disability
+ Immigration status
+ Other (Specify)"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color......at school?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...getting a job?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...at work?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...getting housing?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...getting health care?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...getting service in a store or restaurant?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...getting credit, bank loans, or a mortgage?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...on the street or in a public setting?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your race, ethnicity, or color...from the police or in the courts?","Yes
+ No"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","If you feel you have been treated unfairly
+ because of your race, ethnicity, or color, do you
+ usually…","Accept it as a fact of life
+ Try to do something about it"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","If you feel you have been treated unfairly
+ because of your race, ethnicity, or color, do you
+ usually…","Talk to other people about it
+ Keep it to yourself"
+How You Are Treated,Race,SDH,Paper,2017,"Chinese, Russian, Spanish","In the past 12 months, how much have you
+ personally experienced racism, racial
+ discrimination, or racial prejudice?","Not at all
+ A little
+ Some
+ A lot
+ Always"
+How You Are Treated,Gender,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your gender......at school?","Yes
+ No"
+How You Are Treated,Gender,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your gender...getting a job?","Yes
+ No"
+How You Are Treated,Gender,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your gender...at work?","Yes
+ No"
+How You Are Treated,Gender,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your gender...at home?","Yes
+ No"
+How You Are Treated,,SDH,Paper,2017,"Chinese, Russian, Spanish","Have you EVER experienced discrimination, been prevented from doing something or been hassled
+ or made to feel inferior in any of the following situations because of your gender...getting health care?","Yes
+ No"
+How You Are Treated,Gender,SDH,Paper,2017,"Chinese, Russian, Spanish","If you feel you have been treated unfairly
+ because of your gender, do you usually…","Accept it as a fact of life
+ Try to do something about it"
+How You Are Treated,Gender,SDH,Paper,2017,"Chinese, Russian, Spanish","If you feel you have been treated unfairly
+ because of your gender, do you usually…","Talk to other people about it
+ Keep it to yourself"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Avoided meeting or spending time with you socially due to fear of coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Vandalized your home or property (such as graffiti or break-in) in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Harassed or insulted you in person in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Harassed or insulted you online (cyber-bully) in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Physically attacked you in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish","Avoided physical contact with you (for example, handshake, hug) due to fear of coronavirus?","Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Avoided being in the same place as you due to fear of coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-6,,2020,"Chinese, Spanish",Confronted you about your connection to countries or communities with reported coronavirus cases?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish","If you feel you have been treated unfairly
+ because of your gender, do you usually…","Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish","If you feel you have been treated unfairly
+ because of your gender, do you usually…","Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Avoided meeting or spending time with you socially due to fear of coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Vandalized your home or property (such as graffiti or break-in) in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Harassed or insulted you in person in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Harassed or insulted you online (cyber-bully) in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Physically attacked you in connection to coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish","Avoided physical contact with you (for example, handshake, hug) due to fear of coronavirus?","Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Avoided being in the same place as you due to fear of coronavirus?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-7,,2020,"Chinese, Spanish",Confronted you about your connection to countries or communities with reported coronavirus cases?,"Yes
+ No Don't Know/Not Sure"
+Discrimination,COVID-19,HOP-10,,2020,Spanish,Immigration Status,Very Concerned Somewhat Concerned Not At All Concerned Don't Know/Not Sure
+Discrimination,,HOP-10,,2020,Spanish,Race/Ethinicity,Very Concerned Somewhat Concerned Not At All Concerned Don't Know/Not Sure
+Discrimination,COVID-19,HOP-10,,2020,Spanish,Sexual Orientation/Gender Identitiy,Very Concerned Somewhat Concerned Not At All Concerned Don't Know/Not Sure

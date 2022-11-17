@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+<title>Display table</title>
+
+<!--load D3 dependency-->
+<script src="https://d3js.org/d3.v5.min.js"></script>
+
+<!--load Arquero dependency-->
+<script src="https://cdn.jsdelivr.net/npm/arquero@latest"></script>
+
+</head>
+<body>
+  <style>
+    body {
+      max-width: 800px;
+      margin: auto;
+      font-family:Arial, Helvetica, sans-serif
+    }
+  </style>
+
+  <h1>Survey Catalog</h1>
+  <p>This tool allows you to search for full wording of DOHMH survey questions by Topic and Subtopic, or by word (or by word within Topic and Subtopic). The questionnaire bank includes the most recent wording of questions from our many health surveillance surveys, including the Community Health Survey, NYC KIDS, the high school and middle school Youth Risk Behavior Surveys, as well as recent surveys conducted using the Health NYC Panel, and others. If you are seeking a question not contained in the catalog please email us at <a href="mailto:surveybank@health.nyc.gov">surveybank@health.nyc.gov</a></p>
+  <hr>
+  <div id="tableDestination"></div>
+
+
+<script>
+// loading csv using d3. This is one way to get a CSV into your page's code so that you can manipulate it using JavaScript. It's a lot easier to manipulate a JS variable than to retrieve and manipulate HTML elements.
+var data
+d3.csv('data.csv').then(csv => {
+  data = csv;
+  console.log("Here is our data array:")
+  console.log(data)
+})
+
+// here's an example of how we can filter the object. You could set up your page with event listeners on search or a dropdown filters, and the event listener runs the function filter('search term').
+
+// this example function just searches the 'Question Text' field of the dadta.
+function filter(x) {
+  var results = []; // create an empty array for results
+  for (let i = 0; i < data.length; i++) {
+    if (data[i]['Question Text'].includes(x)) {
+      results.push(data[i]) // if the field includes the searched-text, push the question to a results array.
+    } else {};
+  };
+  console.table(results) // /show the results in the console.
+}
+
+// 
+
+
+
+// loading CSV using Arquero. This is another toolkit that can help with data structuring and filtering. For example, with this code, arquery imports the CSV and then automatically renders it as an HTML table and delivers it to the HTML.
+var arqueroTable;
+aq.loadCSV('data.csv').then(csv => {
+  arqueroTable = csv;
+  arqueroTable.print() // print to console
+
+  makeTable()
+
+});
+
+// doing things using Arquero
+function makeTable() {
+  console.log("Now we'll make a table with Arquero")
+  var html; // create a variable
+  html = arqueroTable.toHTML(); // print arqueroTable to an HTML table
+  console.log(html)
+  document.getElementById('tableDestination').innerHTML = html // send that HTML to the page's code
+}
+
+
+
+
+</script>
+</body>
+</html>
